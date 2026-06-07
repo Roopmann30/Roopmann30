@@ -176,29 +176,12 @@ I enjoy transforming complex challenges into impactful software products that im
 
 🔹 Cloud-Based AI Systems
 
----
-
-# Contribution Signal
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Roopmann30&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roopmann30&theme=github-dark-blue" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roopmann30&layout=compact&theme=github_dark" />
-</p>
-
----
 
 # Connect
 
 📧 Email: roopmannvaradharaj@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/roopmann-varadharaj
+💼 LinkedIn: https://www.linkedin.com/in/roopmann-varadharaj-2a3090290
 
 💻 GitHub: https://github.com/Roopmann30
 
