@@ -122,41 +122,6 @@ I enjoy transforming complex challenges into impactful software products that im
 
 ---
 
-# Experience
-
-## Software Development Engineer Intern
-### Bluestock.in
-
-- Worked on software engineering workflows and application development.
-- Contributed to real-world software development practices.
-- Collaborated on scalable and maintainable software solutions.
-
----
-
-## Full Stack Web Development Intern
-### Nxtlogic Software Solutions
-
-- Developed responsive web applications.
-- Worked on frontend and backend integration.
-- Improved understanding of full stack architecture and deployment.
-
----
-
-# Current Focus
-
-🔹 Generative AI Applications
-
-🔹 Retrieval-Augmented Generation Systems
-
-🔹 AI-Powered Educational Platforms
-
-🔹 Intelligent Automation Solutions
-
-🔹 Scalable Full Stack Development
-
-🔹 Cloud-Based AI Systems
-
-
 # Connect
 
 📧 Email: roopmannvaradharaj@gmail.com
