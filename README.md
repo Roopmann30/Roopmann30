@@ -142,26 +142,6 @@ I enjoy transforming complex challenges into impactful software products that im
 
 ---
 
-# Certifications
-
-🏅 Fundamentals of Accelerated Computing with CUDA C/C++ & Python — NVIDIA
-
-🏅 Introduction to Large Language Models (LLMs) — NPTEL
-
-🏅 AWS AI Practitioner — Udacity
-
----
-
-# Achievements
-
-🥈 Second Runner-Up — NVIDIA GPU Accelerated Computing Codeathon
-
-🏆 Best Project Award (Best Genius Category) — KPRIET Innovsense 2025
-
-🥈 Runner-Up — TechXcelerate Coding Competition, KCT
-
----
-
 # Current Focus
 
 🔹 Generative AI Applications
