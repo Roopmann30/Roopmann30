@@ -47,21 +47,6 @@ I enjoy transforming complex challenges into impactful software products that im
 
 ---
 
-# Profile Lock
-
-| Area | Value |
-|--------|--------|
-| Primary Domain | Generative AI & Full Stack Development |
-| Core Languages | Python, JavaScript, Java |
-| AI Focus | LLMs, RAG, Machine Learning |
-| Backend | Flask, Django, REST APIs |
-| Database | MySQL, MongoDB |
-| Cloud | AWS (EC2, S3) |
-| Development Style | Scalable, AI-Driven, User-Centric |
-| Goal | Building Intelligent Software Products |
-
----
-
 # Project Ecosystem
 
 | Project | Stack | Description |
