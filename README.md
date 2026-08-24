@@ -128,8 +128,6 @@ I enjoy transforming complex challenges into impactful software products that im
 
 💼 LinkedIn: https://www.linkedin.com/in/roopmann-varadharaj-2a3090290
 
-💻 GitHub: https://github.com/Roopmann30
-
 📍 Coimbatore, Tamil Nadu
 
 ---
