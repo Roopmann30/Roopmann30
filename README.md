@@ -9,7 +9,6 @@ Building AI-powered applications, intelligent automation systems, and scalable s
 </p>
 
 <p align="center">
-<a href="https://github.com/Roopmann30">GitHub</a> •
 <a href="https://www.linkedin.com/in/roopmann-varadharaj-2a3090290">LinkedIn</a> •
 Coimbatore, Tamil Nadu
 </p>
